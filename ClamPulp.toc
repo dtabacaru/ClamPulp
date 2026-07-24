@@ -1,6 +1,6 @@
-## Interface: 11508
+## Interface: 11509
 ## Title: Clam Pulp
 ## Author: dtabacaru
-## Version: 11508-001
+## Version: 11509-001
 
 ClamPulp.lua
